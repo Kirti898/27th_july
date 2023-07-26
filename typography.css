@@ -139,7 +139,8 @@ h6 {
 font-size: 20px;
 font-style: normal;
 font-weight: 700;
-line-height: 29.945p
+line-height: 29.945px;
+margin-bottom: 0;
 }
 p{
  
