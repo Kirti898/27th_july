@@ -309,3 +309,10 @@ margin-bottom: 0;
         text-align: center;
     }   
 }
+@media(max-width:767px){
+    .first_section .first_section_content {
+        display: flex;
+        flex-wrap: wrap;
+        text-align: center;
+    }   
+}
