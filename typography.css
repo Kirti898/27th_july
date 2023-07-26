@@ -219,6 +219,8 @@ letter-spacing: 0.15px;
 .top_section_para{
  
 width: 486px;
+/* width:100%; */
+
 color: #FFF;
 
 font-size: 20px;
