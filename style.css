@@ -278,6 +278,7 @@ margin-bottom: 0;
     background-image: url("images/image\ 1.png");
     
     /* padding: 234px 0; */
+    padding-top: 234px;
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
@@ -288,9 +289,9 @@ margin-bottom: 0;
 
 
 
-.first_section .first_section_content .first_left{
-    padding: 234px 886px 234px 0;
-}
+/* .first_section .first_section_content .first_left{
+     padding: 234px 886px 234px 0;
+} */
 .first_section .first_section_content .first_left .first_button{
     padding: 30px 16px 26px 0;
    
@@ -302,6 +303,13 @@ margin-bottom: 0;
     padding: 16px 21px;
     border-radius: 4px;
 }
+.first_section .first_section_content{
+    max-width: 48%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
 @media(max-width:1024px){
     .first_section .first_section_content {
         display: flex;
