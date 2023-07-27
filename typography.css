@@ -150,6 +150,7 @@ p{
   line-height: 20px;
   letter-spacing: -0.30000001192092896px;
   color: #171D29;
+  margin-bottom: 0;
 ;
   
 }
@@ -187,6 +188,7 @@ font-weight: 300;
 line-height: 20px;
 letter-spacing: -0.30000001192092896px;
 color: #000000;
+margin-bottom: 28px;
 
 }
 p.small{
